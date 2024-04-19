@@ -21,6 +21,7 @@ Resources -
 2. ir - https://circuitdigest.com/microcontroller-projects/interfacing-ir-sensor-module-with-arduino
 
 Thought process/learnings - 
+
 Firstly, I never knew that different sensors worked on different logics. I was very confused in the start because I did not realise that there were sensors which worked in Negative logic.
 Secondly, I learnt that connecting wires in real life is slightly messy and hard. A good chunk of my time went in unscrewing the driver screws in order to make the required connections and also I had slight troubles finding enough Vcc and Grounds for all the sensors and the drivers.
 Thirdly, I learnt that buck converters might sometimes retain charge even after you switch it off due the the capacito, therefore you should be careful while removing the buck converter to avoid damaging it.
